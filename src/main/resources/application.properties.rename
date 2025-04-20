@@ -1,0 +1,8 @@
+spring.application.name=ControledeEstoque
+
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+ 
+spring.jpa.hibernate.ddl-auto=
+spring.jpa.properties.dialect=
